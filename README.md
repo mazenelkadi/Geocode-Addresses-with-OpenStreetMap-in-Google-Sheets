@@ -1,8 +1,10 @@
 # Geocode-Addresses-with-OpenStreetMap-in-Google-Sheets
 Script 1: GEOCODE_OSM
+
 GEOCODE_OSM is a Google Apps Script that transforms addresses into geographical coordinates using the OpenStreetMap Nominatim API. It provides latitude and longitude data for mapping and spatial analysis, enhancing data visualization and location-based insights in Google Sheets.
 
 Script 2: REVERSE_GEOCODE_OSM
+
 REVERSE_GEOCODE_OSM is another Google Apps Script that complements GEOCODE_OSM. It reverses the process by converting latitude and longitude coordinates back into detailed addresses. This script is valuable for extracting location information from geographic data points, aiding in data interpretation and contextualization.
 
 # Google Apps Script for Google Sheets
